@@ -1,4 +1,4 @@
-# ⚡ PulseChat
+#  PulseChat
 
 > **Connect instantly. Chat effortlessly.**
 
@@ -6,23 +6,23 @@ A modern, high-performance, production-style real-time messaging platform built 
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
-- **⚡ Real-Time Messaging**: Sub-millisecond message delivery powered by Socket.IO WebSockets.
-- **🟢 Live Presence**: Real-time online/offline status indicators across all active sessions.
-- **⌨️ Live Typing Indicators**: Smooth animated typing indicators as users compose messages.
-- **💬 Direct & Group Chats**: Seamless 1-to-1 private messaging and multi-user group chat rooms.
-- **🎭 Message Reactions**: Interactive emoji reactions with live counters and user lists.
-- **💬 Message Replies & Quoting**: Context-aware inline message replies.
-- **📎 Media & File Attachments**: Image previews and file sharing with integrated upload handling.
-- **✏️ Edit & Delete**: Inline message editing and soft deletion.
-- **🔐 Secure Authentication**: JWT in HTTP-only cookies, password hashing with bcrypt, and rate-limiting.
-- **🎨 Modern Dark & Light Mode**: Curated design system with glassmorphism, smooth animations, and clean responsive layout.
-- **🚀 Monorepo Architecture**: Clean separation between `@pulsechat/web`, `@pulsechat/api`, and `@pulsechat/shared`.
+- ** Real-Time Messaging**: Sub-millisecond message delivery powered by Socket.IO WebSockets.
+- ** Live Presence**: Real-time online/offline status indicators across all active sessions.
+- ** Live Typing Indicators**: Smooth animated typing indicators as users compose messages.
+- ** Direct & Group Chats**: Seamless 1-to-1 private messaging and multi-user group chat rooms.
+- ** Message Reactions**: Interactive emoji reactions with live counters and user lists.
+- ** Message Replies & Quoting**: Context-aware inline message replies.
+- ** Media & File Attachments**: Image previews and file sharing with integrated upload handling.
+- ** Edit & Delete**: Inline message editing and soft deletion.
+- ** Secure Authentication**: JWT in HTTP-only cookies, password hashing with bcrypt, and rate-limiting.
+- ** Modern Dark & Light Mode**: Curated design system with glassmorphism, smooth animations, and clean responsive layout.
+- ** Monorepo Architecture**: Clean separation between `@pulsechat/web`, `@pulsechat/api`, and `@pulsechat/shared`.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -33,7 +33,7 @@ A modern, high-performance, production-style real-time messaging platform built 
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Prerequisites
 - **Node.js** (v18 or higher)
@@ -69,7 +69,7 @@ npm run dev
 
 ---
 
-## 👥 Demo Accounts (1-Click Login Available)
+##  Demo Accounts (1-Click Login Available)
 
 All demo accounts use password: `Password123!`
 
@@ -85,7 +85,7 @@ All demo accounts use password: `Password123!`
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Real-Time Chat Application/
@@ -124,6 +124,6 @@ Real-Time Chat Application/
 
 ---
 
-## 📜 License
+##  License
 
 MIT License. See [LICENSE](LICENSE) for details.
